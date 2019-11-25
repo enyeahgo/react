@@ -1,7 +1,7 @@
 Create two folders **public** and **src** then `npm install --save react react-dom react-router-dom`
 
 **public**
-<br />*./index.html* (simple html page but must have <div id="root"></div>)
+<br />*./index.html* (simple html page but must have `<div id="root"></div>`)
 ```
 <!DOCTYPE html>
 <html lang="en">
