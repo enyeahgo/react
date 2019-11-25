@@ -1,7 +1,7 @@
-public
-	./index.html (simple html page but must have <div id="root"></div>)
-src
-	./index.js (Render to index.html <div> root)
+**public**
+	*./index.html* (simple html page but must have <div id="root"></div>)
+**src**
+	*./index.js* (Render to index.html <div> root)
 ```
 import React from 'react';
 import ReactDOM from 'react-dom';
