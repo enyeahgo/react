@@ -58,7 +58,7 @@ Create two folders **public** and **src** then `npm install --save react react-d
 </html>
 ```
 **src**
-*./index.js* (Render to index.html <div> root)
+<br />*./index.js* (Render to index.html div root)
 ```
 import React from 'react';
 import ReactDOM from 'react-dom';
